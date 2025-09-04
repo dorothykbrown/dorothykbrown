@@ -4,11 +4,11 @@ Hi 👋 My name is Dorothy Brown
 Software Engineer
 -----------------
 
-I've been building software for the past 5 years, after switching careers. I started by learning ruby on rails, worked a bit with golang, worked with Python, Django and GraphQL for a few years and am back to working with ruby on rails and React.
+I've been building software for the past 6 years, after switching careers from structural engineering. I started by learning ruby on rails, worked a bit with golang, worked with Python, Django and GraphQL for a few years, then went back to working with ruby on rails and React. After that I built a mult-AI agent system with CrewAI, Python and React. Now I am working with Kotlin.
 
 *   🌍  I'm based in Lisbon, Portugal
 *   ✉️  You can contact me at [dorothy.k.brown@gmail.com](mailto:dorothy.k.brown@gmail.com)
-*   🧠  I'm learning React
+*   🧠  I'm learning Kotlin
  
 ### Skills 
 <p align="left">
