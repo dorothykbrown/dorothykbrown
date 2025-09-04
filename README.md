@@ -7,7 +7,6 @@ Software Engineer
 I've been building software for the past 5 years, after switching careers. I started by learning ruby on rails, worked a bit with golang, worked with Python, Django and GraphQL for a few years and am back to working with ruby on rails and React.
 
 *   🌍  I'm based in Lisbon, Portugal
-*   🖥️  See my portfolio at [https://dorothykamilahbrown.com/](http://dorothykamilahbrown.com/)
 *   ✉️  You can contact me at [dorothy.k.brown@gmail.com](mailto:dorothy.k.brown@gmail.com)
 *   🧠  I'm learning React
  
@@ -100,7 +99,4 @@ I've been building software for the past 5 years, after switching careers. I sta
 ### Badges<b>My GitHub Stats</b>
 <a href="http://www.github.com/dorothykbrown">
   <img src="https://github-readme-stats.vercel.app/api?username=dorothykbrown&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dorothykbrown's GitHub stats" />
-</a>
-<a href="http://www.github.com/dorothykbrown">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dorothykbrown&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
